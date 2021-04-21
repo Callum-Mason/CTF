@@ -13,7 +13,7 @@ Cryptography can be easy, do you know what ROT13 is? cvpbPGS{arkg_gvzr_V'yy_gel_
 I used [Cyber chef](https://gchq.github.io/CyberChef/) to decode it from ROT13. 
 
 
-![Cyber chef ROT13]("https://raw.githubusercontent.com/Callum-Mason/CTF/master/picoCTF/2021/Mod 26/assets/Cyber chef ROT13.png" "Cyber chef ROT13")
+![Cyber chef ROT13](https://raw.githubusercontent.com/Callum-Mason/CTF/master/picoCTF/2021/Mod%2026/assets/Cyber%20chef%20ROT13.png "Cyber chef ROT13")
 
 
 
