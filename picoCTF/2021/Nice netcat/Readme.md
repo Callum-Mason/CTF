@@ -59,7 +59,7 @@ When you run that command, it will give you a list of random numbers.
 
 But if we put that output into cyberchef, and put an a 'From Decimal' operation on it and say that the Life feed is the delimiter, it will give us our flag
 
-![Cyber chef netcat](https://raw.githubusercontent.com/Callum-Mason/CTF/master/picoCTF/2021/Nice%20netcat/assets/cyber%20chef%20netcat.png "Cyber chef netcat")
+![Cyber chef netcat](https://raw.githubusercontent.com/Callum-Mason/CTF/master/picoCTF/2021/Nice%20netcat/assets/cyberchefnetcat.png "Cyber chef netcat")
 
 
 
