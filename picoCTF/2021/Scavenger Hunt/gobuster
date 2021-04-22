@@ -1,0 +1,20 @@
+===============================================================
+Gobuster v3.1.0
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://mercury.picoctf.net:39698/
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/dirb/common.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.1.0
+[+] Timeout:                 10s
+===============================================================
+2021/04/22 21:31:22 Starting gobuster in directory enumeration mode
+===============================================================
+/.htaccess            (Status: 200) [Size: 95]
+/index.html           (Status: 200) [Size: 961]
+/robots.txt           (Status: 200) [Size: 124]
+===============================================================
+2021/04/22 21:33:08 Finished
+===============================================================
